@@ -2,6 +2,8 @@ const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
 const messageOne = document.querySelector('#message-1')
 const messageTwo = document.querySelector('#message-2')
+const helpForm = document.querySelector('#helpForm')
+const helpMessage = document.querySelector('#helpMessage')
 
 weatherForm.addEventListener('submit', (e) => {
     e.preventDefault()
@@ -21,4 +23,10 @@ weatherForm.addEventListener('submit', (e) => {
         }
     })
 })
+})
+
+helpForm.addEventListener('submit', (e) => {
+    e.preventDefault()
+
+    helpMessage.textContent = 'Thank You, We got your message!'
 })
