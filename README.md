@@ -1,4 +1,4 @@
-Weather-App 🌦️
+## Weather-App 🌦️
 
 📌Click here to checkout the deployed application: https://nnv-weather-application.herokuapp.com/
 
