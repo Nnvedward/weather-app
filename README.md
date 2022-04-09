@@ -1,33 +1,33 @@
 ## Weather-App 🌦️
 
-📌Click here to checkout the deployed application: https://nnv-weather-application.herokuapp.com/
+# 📌Click [here](https://nnv-weather-application.herokuapp.com "Weather App") to checkout the deployed application.
 
-🔹Overview:
+# 🔹Overview:
 
 The weather app is an web based application to get weather updates and forecast, like temperature in Celsius, expected climate changes, and humidity.
 
-🔸Concepts:
+# 🔸Concepts:
 
-Application Development
-API calls
-Git based deployment (heroku client)
-
-
-🔸Tools & Technologies:
-
-NodeJS
-Open Weather Map
-Mapbox
-Heroku
-Git
+Application Development  
+API calls  
+Git based deployment (heroku client)  
 
 
-🔹Features:
+# 🔸Tools & Technologies:
 
-Getting weather forecast using Open Weather API
+NodeJS  
+Open Weather Map  
+Mapbox  
+Heroku  
+Git  
+
+
+# 🔹Features:
+
+Getting weather forecast using Open Weather API  
 City name and country based querying
 
 
-🔹Contribution:
+# 🔹Contribution:
 
 Contributions are always welcomed. Make sure you read the Contribution info
