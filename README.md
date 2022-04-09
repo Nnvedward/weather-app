@@ -1,6 +1,4 @@
-### <p align="center">
-   ### Weather-App 🌦️
-</p>
+### Weather-App 🌦️
 
 # 📌Click [here](https://nnv-weather-application.herokuapp.com "Weather App") to checkout the deployed application.
 
